@@ -1,6 +1,9 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate AI/ML developer from India.</h3>
+<img src="![image](https://github.com/user-attachments/assets/482d2cac-b8ec-4302-bc40-0979463f6c15)
+" alt="Description of image" width="500" height="300">
+
 
 - 🌱 I’m currently learning **Large Language Models, Devops**
 
