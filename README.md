@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate AI/ML developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=cartoon%20programmer&position=1&from_view=keyword&track=ais_hybrid&uuid=17b99985-bc38-4dc8-a20f-98c2e9636a67">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
 
 - 🌱 I’m currently learning **Large Language Models, Devops**
 
