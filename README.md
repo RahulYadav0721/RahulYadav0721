@@ -1,7 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate AI/ML developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
 
 - 🌱 I’m currently learning **Large Language Models, Devops**
 
